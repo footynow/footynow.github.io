@@ -80,7 +80,7 @@ body{
 .login-table{
 	width:25%;
 	position: fixed;
-	top: 100px;
+	top: 125px;
   	right: 0;
   	width: 300px;
 	background-color: #DCDCDC;
@@ -117,7 +117,7 @@ span.psw {
 /*--------------------------This is all the top header css-------------------------------*/
 .main-header{
 	background-color: lightblue;
-	color:#fff; 
+	color:#fff;
 
 }
 
@@ -126,6 +126,7 @@ span.psw {
 	margin:none;
 	height: 100px;
 	overflow:hidden;
+	text-align: center;
 }
 
 .header-container img {

@@ -118,7 +118,7 @@ span.psw {
 .main-header{
 	background-color: lightblue;
 	color:#fff;
-
+	text-align: center;
 }
 
 .header-container{
@@ -126,7 +126,7 @@ span.psw {
 	margin:none;
 	height: 100px;
 	overflow:hidden;
-	text-align: center;
+	
 }
 
 .header-container img {

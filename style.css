@@ -18,8 +18,8 @@ body{
 	top: 100px;
   	right: 0;
   	width: 300px;
-	background-color: #gray;
-  	border: 3px solid #black;
+	background-color: #DCDCDC;
+  	border: 3px solid #000000;
 }
 /*------  ^^^have to mke this width/height responsive*/
 
@@ -75,7 +75,7 @@ body{
 }
 
 #login-form-submit {
-	width: 100%;
+	width: 60%;
 	padding: 7px:
 	border: none;
 	border-radius: 5px;
@@ -109,6 +109,8 @@ span.psw {
     float: none;
   }
 }
+
+
 
 /*--------------------------This is all the top header css-------------------------------*/
 .main-header{

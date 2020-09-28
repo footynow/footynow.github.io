@@ -12,6 +12,16 @@ body{
 	background-color:#f4f4f4;
 }
 
+.login-table{
+	width:25%;
+	position: fixed;
+	top: 60px;
+  	right: 0;
+  	width: 300px;
+  	border: 3px solid #73AD21;
+}
+/*------  ^^^have to mke this width/height responsive*/
+
 #login-holder {
 	width: 50%;
 	height:70%;

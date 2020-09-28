@@ -122,10 +122,11 @@ span.psw {
 }
 
 .header-container{
-	width:80%;
+	width:100%;
 	margin:none;
 	height: 100px;
 	overflow:hidden;
+	text-align: center;
 	
 }
 
